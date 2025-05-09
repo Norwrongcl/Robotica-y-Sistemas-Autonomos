@@ -39,7 +39,7 @@ void loop() {
   digitalWrite(IN4, HIGH);
   delay(2000);
 
-  // Stop
+  // Detenerse
   digitalWrite(IN1, LOW);
   digitalWrite(IN2, LOW);
   digitalWrite(IN3, LOW);
