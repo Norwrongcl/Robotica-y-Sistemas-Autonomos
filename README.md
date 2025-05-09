@@ -1,4 +1,4 @@
-# 🧪 Laboratorio de Robótica y Sistemas Autónomos  
+# Laboratorio de Robótica y Sistemas Autónomos  
 ### Integrantes: Bruno Toro, Davor Serey, Ignacio Silva
 
 ## Parte 1
